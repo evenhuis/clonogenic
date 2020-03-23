@@ -1,3 +1,5 @@
+matplotlib
 numpy
 pandas
 pymc3
+os
