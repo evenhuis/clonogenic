@@ -21,6 +21,13 @@ def get_exp_label(df,i_exp):
 	exp_label = "{} {}: {}".format(row['Cell_line'],row['Drug'],row['Plate'])
 	return exp_label
 
+def get_exp_index( df, drug, cell_line, rep ):
+	mask = (df['Drug']==drug)&(df['Cell_line']==cell_line)
+	dft = df[mask].copy()
+	plates = dft['plate'].unique()
+
+	return dft[dft['plate']==plates[rep]].iloc[0]['i_exp']
+
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Trace tools 
 #   pull_samples - get postieor samples from a trace
