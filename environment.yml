@@ -46,6 +46,8 @@ dependencies:
   - markupsafe=1.1.1
   - matplotlib=3.2.1
   - matplotlib-base=3.2.1
+  - mkl=2019.5
+  - mkl-service=2.3.0
   - ncurses=6.1
   - netcdf4=1.5.3
   - numpy=1.18.1
