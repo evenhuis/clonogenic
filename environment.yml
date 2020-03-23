@@ -18,6 +18,7 @@ dependencies:
   - curl=7.68.0
   - cycler=0.10.0
   - freetype=2.10.1
+  - graphviz=2.42.3
   - h5py=2.10.0
   - hdf4=4.2.13
   - hdf5=1.10.5
@@ -28,8 +29,10 @@ dependencies:
   - libblas=3.8.0
   - libcblas=3.8.0
   - libcurl=7.68.0
+  - libcxx=9.0.1
   - libedit=3.1.20170329
   - libffi=3.2.1
+  - libgfortran=4.0.0
   - libgpuarray=0.7.6
   - liblapack=3.8.0
   - libllvm9=9.0.1
@@ -37,7 +40,10 @@ dependencies:
   - libopenblas=0.3.9
   - libpng=1.6.37
   - libssh2=1.8.2
+  - libtiff=4.1.0
+  - libwebp-base=1.1.0
   - llvm-openmp=9.0.1
+  - lz4-c=1.8.3
   - mako=1.1.0
   - markupsafe=1.1.1
   - matplotlib=3.2.1
@@ -71,4 +77,5 @@ dependencies:
   - xarray=0.15.0
   - xz=5.2.4
   - zlib=1.2.11
+  - zstd=1.4.4
 prefix: /Users/evenhuis/anaconda3/envs/clonogenic
