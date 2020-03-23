@@ -1,0 +1,18 @@
+Plate, 2
+Well, 4
+Count, 1
+
+Type 1 Statistics
+Diameter (um), Area (um^2), Density (OD), Volume (OD*um^2), Volume 2 (4/3PIr^3), Nearest Neighbour (um), X coordinate, Y coordinate
+431.792, 146433.153, 0.181, 26497.301, 42152459.575, 0.000, 13038.667, 34628.667
+
+
+
+ADDITIONAL INFO
+Read-date:	01-03-2020
+Read-time:	16:44:50
+Plate type:	6-Well
+Resolution settings:	300 dpi
+CHARM Settings 1:		unsaved settings
+Mask Settings File:	Falcon 6 wells_mask.mask
+Image file: C:\Users\Public\Documents\GelCount\Data\Data_01-03-20_16-27\Plate2\Plate2.ics

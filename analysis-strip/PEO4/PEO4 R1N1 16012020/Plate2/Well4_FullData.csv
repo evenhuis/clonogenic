@@ -1,0 +1,23 @@
+Plate, 2
+Well, 4
+Count, 6
+
+Type 1 Statistics
+Diameter (um), Area (um^2), Density (OD), Volume (OD*um^2), Volume 2 (4/3PIr^3), Nearest Neighbour (um), X coordinate, Y coordinate
+360.629, 102143.524, 0.102, 10414.907, 24557268.394, 6455.243, 20574.000, 22775.333
+220.744, 38270.927, 0.117, 4468.250, 5632060.095, 12599.128, 13123.333, 12615.333
+385.121, 116488.857, 0.099, 11557.477, 29908206.756, 5167.442, 25146.000, 29548.667
+380.040, 113435.421, 0.095, 10819.460, 28740004.265, 5167.442, 26754.667, 24638.000
+283.317, 63042.907, 0.108, 6827.152, 11907432.934, 15189.351, 6011.333, 27093.333
+314.462, 77665.294, 0.097, 7550.172, 16281870.260, 9732.248, 30310.667, 15578.667
+
+
+
+ADDITIONAL INFO
+Read-date:	08-02-2020
+Read-time:	19:50:15
+Plate type:	6-Well
+Resolution settings:	300 dpi
+CHARM Settings 1:		PEO4_300.charm
+Mask Settings File:	Not specified
+Image file: C:\Users\Public\Documents\GelCount\Data\Data_08-02-20_19-14\Plate2\Plate2.ics

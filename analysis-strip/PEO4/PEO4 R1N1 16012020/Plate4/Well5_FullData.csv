@@ -1,0 +1,20 @@
+Plate, 4
+Well, 5
+Count, 3
+
+Type 1 Statistics
+Diameter (um), Area (um^2), Density (OD), Volume (OD*um^2), Volume 2 (4/3PIr^3), Nearest Neighbour (um), X coordinate, Y coordinate
+335.987, 88661.601, 0.137, 12168.777, 19859447.038, 12469.305, 32173.333, 10160.000
+387.364, 117849.551, 0.110, 12979.745, 30433766.252, 12469.305, 32935.333, 22606.000
+226.133, 40162.109, 0.115, 4629.486, 6054643.423, 14344.692, 18626.667, 21590.000
+
+
+
+ADDITIONAL INFO
+Read-date:	08-02-2020
+Read-time:	19:50:15
+Plate type:	6-Well
+Resolution settings:	300 dpi
+CHARM Settings 1:		PEO4_300.charm
+Mask Settings File:	Not specified
+Image file: C:\Users\Public\Documents\GelCount\Data\Data_08-02-20_19-14\Plate4\Plate4.ics

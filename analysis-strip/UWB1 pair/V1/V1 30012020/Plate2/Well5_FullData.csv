@@ -1,0 +1,19 @@
+Plate, 2
+Well, 5
+Count, 2
+
+Type 1 Statistics
+Diameter (um), Area (um^2), Density (OD), Volume (OD*um^2), Volume 2 (4/3PIr^3), Nearest Neighbour (um), X coordinate, Y coordinate
+220.744, 38270.927, 0.157, 6006.019, 5632060.095, 9431.882, 16764.000, 27686.000
+325.964, 83450.445, 0.147, 12270.330, 18134550.017, 9431.882, 19388.667, 18626.667
+
+
+
+ADDITIONAL INFO
+Read-date:	11-02-2020
+Read-time:	11:59:00
+Plate type:	6-Well
+Resolution settings:	300 dpi
+CHARM Settings 1:		unsaved settings
+Mask Settings File:	Tao_UWB1.mask
+Image file: C:\Users\Public\Documents\GelCount\Data\Data_11-02-20_11-48\Plate2\Plate2.ics

@@ -1,0 +1,23 @@
+Plate, 4
+Well, 4
+Count, 6
+
+Type 1 Statistics
+Diameter (um), Area (um^2), Density (OD), Volume (OD*um^2), Volume 2 (4/3PIr^3), Nearest Neighbour (um), X coordinate, Y coordinate
+610.263, 292498.637, 0.197, 57578.177, 119000715.031, 6552.237, 17780.000, 846.667
+415.891, 135846.411, 0.112, 15224.849, 37664833.792, 15505.331, 34798.000, 18965.333
+269.716, 57134.971, 0.111, 6335.611, 10273462.042, 12386.244, 19304.000, 19558.000
+230.152, 41602.672, 0.122, 5074.867, 6383305.660, 3438.134, 22606.000, 7620.000
+236.239, 43832.108, 0.116, 5074.173, 6903229.829, 1626.394, 24722.667, 4910.667
+219.430, 37816.465, 0.118, 4462.074, 5532038.610, 1626.394, 23706.667, 3640.667
+
+
+
+ADDITIONAL INFO
+Read-date:	07-02-2020
+Read-time:	18:27:10
+Plate type:	6-Well
+Resolution settings:	300 dpi
+CHARM Settings 1:		unsaved settings
+Mask Settings File:	Tao_PEO1.mask
+Image file: C:\Users\Public\Documents\GelCount\Data\Data_07-02-20_18-15\Plate4\Plate4.ics
